@@ -274,7 +274,6 @@ function updateDashboard() {
 // ===================================
 function displayPatients() {
 
-    
     const search = document.getElementById("searchPatient")
         .value.toLowerCase().trim();
 
