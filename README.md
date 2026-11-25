@@ -5,6 +5,7 @@ A simple browser-based queue management system for a health center, built with *
 ## Features
 
 ### Patient interface
+
 - Register a patient with name, age, gender, and requested health service.
 - Generate a queue number in the format `HC-001`, `HC-002`, and so on.
 - Display a registration ticket after successful registration.
