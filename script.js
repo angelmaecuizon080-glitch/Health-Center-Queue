@@ -272,9 +272,9 @@ function updateDashboard() {
 // ===================================
 // DISPLAY PATIENT TABLE
 // ===================================
-
 function displayPatients() {
 
+    
     const search = document.getElementById("searchPatient")
         .value.toLowerCase().trim();
 
